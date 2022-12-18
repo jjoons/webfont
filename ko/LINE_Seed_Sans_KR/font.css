@@ -3,7 +3,7 @@
   src: local("LINE Seed Sans KR Thin"),
     url("LINESeedKR-Th.woff2") format("woff2");
   font-weight: 100;
-  font-display: wrap;
+  font-display: swap;
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   src: local("LINE Seed Sans KR Regular"),
     url("LINESeedKR-Rg.woff2") format("woff2");
   font-weight: 400;
-  font-display: wrap;
+  font-display: swap;
 }
 
 @font-face {
@@ -19,5 +19,5 @@
   src: local("LINE Seed Sans KR Bold"),
     url("LINESeedKR-Bd.woff2") format("woff2");
   font-weight: 700;
-  font-display: wrap;
+  font-display: swap;
 }
