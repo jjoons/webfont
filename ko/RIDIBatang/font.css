@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "RIDIBatang";
+  src: local("RIDIBatang"), local("리디바탕"),
+    url("RIDIBatang.woff2") format("woff2");
+  font-weight: 400;
+  font-display: swap;
+}
